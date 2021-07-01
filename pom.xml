@@ -12,7 +12,28 @@
         <module>generic</module>
         <module>Amazon</module>
         <module>CNN</module>
+        <module>Cigna</module>
+        <module>Citibank</module>
+        <module>Facebook</module>
+        <module>RestApiAutomationFW</module>
     </modules>
+    <dependencies>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
