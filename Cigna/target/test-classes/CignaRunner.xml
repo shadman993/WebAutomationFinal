@@ -13,7 +13,7 @@
     <test name="Cigna automation test">
 
         <classes>
-          <class name="com.cigna.loginTest.LoginTest"></class>
+            <!--            <class name="com.cigna.loginTest.LoginTest"></class>-->
             <class name="com.cigna.dentalpageTest.DentalHealthPageTest"></class>
 
         </classes>

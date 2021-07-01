@@ -1,6 +1,6 @@
-package cigna.dentalpageTest;
+package com.cigna.dentalpageTest;
 
-import cigna.dataprovidertest.DataProviderTest;
+import com.cigna.dataprovidertest.DataProviderTest;
 import com.cigna.dentalHealthPage.DentalHealthPage;
 import common.TestBase;
 import org.apache.log4j.Logger;

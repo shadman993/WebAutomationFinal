@@ -1,4 +1,4 @@
-package cigna.dataprovidertest;
+package com.cigna.dataprovidertest;
 
 import org.testng.annotations.DataProvider;
 

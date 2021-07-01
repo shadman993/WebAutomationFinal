@@ -1,6 +1,6 @@
-package cigna.loginTest;
+package com.cigna.loginTest;
 
-import cigna.dataprovidertest.DataProviderTest;
+import com.cigna.dataprovidertest.DataProviderTest;
 // import com.cigna.dataprovidertest.DataProviderTest;
 import com.cigna.loginPage.LoginPage;
 import common.TestBase;

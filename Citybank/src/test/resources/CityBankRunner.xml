@@ -10,7 +10,7 @@
     <parameter name="platform" value="windows"/>
 
 
-    <test name="CityBank automation test">
+    <test name="CityBank automation test">git
      <classes>
 <!--        <class name="com.citybank.login.LoginTest"></class>-->
 <!--         <class name="com.citybank.creditcardtest.CreditCardTest"></class>-->
