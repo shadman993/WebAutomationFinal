@@ -17,6 +17,7 @@
         <module>Facebook</module>
         <module>RestApiAutomationFW</module>
         <module>Citybank</module>
+        <module>RestApiAutomationFW</module>
     </modules>
     <dependencies>
         <dependency>

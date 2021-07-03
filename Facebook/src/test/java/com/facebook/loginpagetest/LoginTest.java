@@ -15,7 +15,7 @@ public class LoginTest extends TestBase {
     //Positive Test
     @Test(priority = 1)
     public void VerifyLoginTest(){
-        loginPage = PageFactory.initElements(driver,LoginPage.class);
+        loginPage = PageFactory.initElements(driver, LoginPage.class);
         loginPage.emailField();
         loginPage.passwordField();
         loginPage.loginButton();
